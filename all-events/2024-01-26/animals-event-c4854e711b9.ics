@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Animals Event - ECPv6.3.5//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://animalsevent.test
+X-WR-CALDESC:Events for Animals Event
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20240310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20241103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240126T000000
+DTEND;TZID=America/New_York:20240128T235959
+DTSTAMP:20240428T105751
+CREATED:20221228T080420Z
+LAST-MODIFIED:20231011T171643Z
+UID:10000576-1706227200-1706486399@animalsevent.test
+SUMMARY:World of Pets Expo
+DESCRIPTION:Step into a vibrant world where pets reign supreme\, and the bond between humans and animals flourishes. The World of Pets Expo is an extraordinary event that will captivate the hearts of pet parents\, pet lovers\, and everyone with a penchant for all things furry\, feathered\, and scaly. As a devoted animal expert and someone who attended this remarkable event in the past\, I am thrilled to share my knowledge and experiences. Join me as we embark on a mesmerizing journey through the kaleidoscope of activities that make the World of Pets Expo an unmissable occasion for the whole family. \n\n\n\nPet Costume Contests: Unleash the Creativity\n\n\n\nAn Expression of Fun and Imagination\n\n\n\nDescription: Picture a parade of pets\, each one donning a unique and meticulously crafted costume. The Pet Costume Contests at the World of Pets Expo are a sight to behold. Witness the delightful spectacle as dogs\, cats\, and even small animals showcase their whimsical ensembles\, transforming into everything from superheroes to fairy tale characters. This playful activity not only celebrates the artistry of pet parents but also fosters a sense of community among fellow animal enthusiasts. Prepare to be amazed as you witness pets strutting their stuff on stage\, radiating pure joy and bringing smiles to the faces of all in attendance. \n\n\n\nPet Parades: Celebrating Our Furry Friends\n\n\n\nA Grand Showcase of Pet Diversity\n\n\n\nDescription: The Pet Parades at the World of Pets Expo are a celebration of our furry friends' unique personalities and charm. Experience the delight of watching a colorful procession of pets of all shapes and sizes. From regal dogs to whimsical rabbits and even exotic reptiles\, these parades create a sense of wonder and admiration for the vast array of pets that grace our lives. Immerse yourself in the lively atmosphere as participants and spectators come together to applaud the bond between pets and their human companions. \n\n\n\nAgility Demonstrations: Grace in Motion\n\n\n\nMarvel at the Athletic Abilities of Pets\n\n\n\nDescription: Prepare to be awestruck as you witness the sheer athleticism and agility of dogs racing through obstacle courses with finesse and precision. The Agility Demonstrations at the World of Pets Expo showcase the remarkable bond between trainers and their canine partners. Marvel at the dogs' speed\, agility\, and intelligence as they navigate jumps\, tunnels\, weave poles\, and more. These demonstrations not only serve as a source of entertainment but also inspire pet owners to engage in active and stimulating activities with their own pets. \n\n\n\nObedience Demonstrations: Unleashing Good Behavior\n\n\n\nDiscover the Power of Positive Reinforcement\n\n\n\nDescription: Witness the power of effective training techniques as the Obedience Demonstrations take center stage. Talented trainers demonstrate the art of teaching dogs basic commands and advanced behaviors using positive reinforcement. Gain insights into the incredible transformations that can occur through patience\, consistency\, and love. These demonstrations empower pet owners by showcasing the importance of training and provide valuable tips for establishing a harmonious relationship with their beloved furry companions. \n\n\n\nTrick Performances: Showcasing Pet Talent\n\n\n\nPrepare to Be Amazed by the Feats of Pets\n\n\n\nDescription: Prepare to be dazzled as pets showcase their incredible talents during the Trick Performances at the World of Pets Expo. Marvel at the intricate tricks\, acrobatics\, and clever stunts performed by dogs\, cats\, birds\, and more. These performances highlight the intelligence and trainability of our beloved pets. Witness firsthand the bond between trainers and animals as they effortlessly execute routines that will leave you in awe. Get inspired to teach your own pet a new trick or two as you witness the limitless potential that lies within our furry companions. \n\n\n\nPet Beauty Pageants: Glamour and Charm\n\n\n\nCelebrating the Inner and Outer Beauty of Pets\n\n\n\nDescription: Step into a world of glitz and glamour as the Pet Beauty Pageants take center stage. Experience the excitement as pets showcase their natural beauty and unique personalities in this delightful competition. The pageants focus on celebrating the inner beauty of pets and the special bond they share with their owners. Be captivated by the charisma of each participant as they strut their stuff on the runway\, radiating elegance and charm. This heartwarming activity emphasizes the importance of loving our pets for who they are\, inside and out. \n\n\n\nPet Adoptions: Find Your Furry Soulmate\n\n\n\nOpening Doors to Forever Homes\n\n\n\nDescription: The World of Pets Expo goes beyond mere entertainment by providing a platform for pet adoptions. This noble initiative connects rescue organizations\, shelters\, and potential pet parents\, offering a chance for animals in need to find their forever homes. Take a stroll through the adoption areas\, where you'll encounter a myriad of adorable faces waiting for a second chance at life. Whether you're looking for a playful kitten\, a loyal canine companion\, or a small critter to brighten your days\, the pet adoption area at the expo will introduce you to a world of love and companionship. \n\n\n\nConclusion:\n\n\n\nThe World of Pets Expo is a treasure trove of extraordinary activities\, ranging from thrilling demonstrations to heartwarming pet adoptions. This remarkable event not only provides a memorable experience for visitors but also serves as a source of inspiration and education for pet owners. Join us at the next World of Pets Expo and immerse yourself in a world where the love for animals knows no bounds. Whether you're a pet parent\, pet lover\, pet vendor\, or simply someone who appreciates the joy that pets bring to our lives\, this event is a must-attend. Mark your calendars and embark on an unforgettable journey through the enchanting world of pets.
+URL:https://animalsevent.test/event/world-of-pets-expo/2024-01-26/
+LOCATION:Maryland State Fairgrounds (Timonium Fairgrounds)\, Maryland State Fairgrounds\, 2200 York Rd\, Timonium\, MD\, 21093\, United States
+CATEGORIES:Maryland,United States
+ATTACH;FMTTYPE=image/webp:https://animalsevent.test/wp-content/uploads/2023/08/World-of-Pets-Expo.webp
+ORGANIZER;CN="World of Pets Expo":MAILTO:info@worldofpets.org
+END:VEVENT
+END:VCALENDAR

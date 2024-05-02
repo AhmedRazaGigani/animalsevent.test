@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Animals Event - ECPv6.3.5//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://animalsevent.test
+X-WR-CALDESC:Events for Animals Event
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20230312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20231105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20230506T000000
+DTEND;TZID=America/New_York:20230507T235959
+DTSTAMP:20240427T224730
+CREATED:20230508T013648Z
+LAST-MODIFIED:20231011T162947Z
+UID:10003008-1683331200-1683503999@animalsevent.test
+SUMMARY:Seacoast Cat Club
+DESCRIPTION:Welcome to the Seacoast Cat Club\, a haven for cat lovers and enthusiasts alike. As someone who recently had the pleasure of attending this extraordinary event\, I cannot emphasize enough how truly remarkable and enjoyable it was. From the wide variety of cat breeds to the captivating exhibitions and competitions\, the Seacoast Cat Club offers an unforgettable experience for all feline enthusiasts. Join me as I share my firsthand experience and highlight the myriad attractions that make this event a must-visit for cat parents\, cat owners\, and cat lovers alike. \n\n\n\nA Multitude of Cat Breeds:\n\n\n\nAs I entered the Seacoast Cat Club\, I was immediately greeted by an astonishing array of cat breeds. From the majestic Maine Coon to the elegant Siamese and the playful Bengal\, there were cats of every shape\, size\, and color imaginable. The event is a unique opportunity to marvel at the beauty and diversity of feline companions. \n\n\n\nExotic Animals and Cage Supplies:\n\n\n\nNot limited to cats alone\, the Seacoast Cat Club also showcases a fascinating display of exotic animals. From adorable rabbits to charming guinea pigs\, these creatures add an extra touch of wonder to the event. Additionally\, the event offers a wide range of high-quality cage supplies\, ensuring that all cat owners can find the perfect products to keep their feline friends safe and comfortable. \n\n\n\nFeeders\, Judging\, and Competitions:\n\n\n\nAt the Seacoast Cat Club\, feeding your beloved feline companion has never been easier. The event features an extensive selection of premium cat feeders and bowls to suit every cat's unique needs. Moreover\, the club hosts various judging and competitions\, where the finest feline specimens compete for top honors. Witnessing these contests is a testament to the expertise and dedication of cat owners and breeders. \n\n\n\nExhibitor Booths and Demonstrations:\n\n\n\nThe Seacoast Cat Club spares no effort in providing an immersive experience for attendees. Exhibitor booths are dotted throughout the venue\, offering a treasure trove of cat-related merchandise\, from toys and accessories to gourmet treats and grooming products. Additionally\, demonstrations of grooming\, training\, and cat care techniques provide valuable insights for cat owners seeking to enhance their furry friends' well-being. \n\n\n\nCat Agility Competitions:\n\n\n\nPrepare to be amazed by the agility and athleticism of the participating cats in the thrilling cat agility competitions. These contests showcase the remarkable bond between cats and their owners\, as they navigate intricate obstacle courses with grace and precision. The energy and excitement in the air make it a truly captivating experience. \n\n\n\nCat Rescue and Adoption:\n\n\n\nThe Seacoast Cat Club is committed to promoting cat welfare and rescue efforts. The event collaborates with local shelters and rescue organizations\, providing a platform for cat adoption. Witnessing these heartwarming adoptions firsthand is a reminder of the profound impact we can make in the lives of these deserving feline companions. \n\n\n\nEducational Talks and Seminars:\n\n\n\nFor those seeking to deepen their understanding of cat behavior\, health\, and care\, the Seacoast Cat Club offers a series of educational talks and seminars. Renowned experts share their insights and provide valuable advice on various cat-related topics\, ensuring that attendees leave with a wealth of knowledge to enhance their cat parenting skills. \n\n\n\nCat-Related Merchandise:\n\n\n\nIndulge your passion for all things feline by exploring the vast selection of cat-related merchandise available at the event. From unique accessories and apparel to innovative cat toys and furniture\, there is something to delight every cat enthusiast. You're bound to find the perfect memento to commemorate your visit to the Seacoast Cat Club. \n\n\n\nSocializing and Networking:\n\n\n\nBeyond the enchanting exhibits and activities\, the Seacoast Cat Club offers a vibrant social atmosphere that fosters connections among cat parents\, cat lovers\, and feline experts. It provides a platform for like-minded individuals to come together\, share their experiences\, and exchange valuable tips and advice. The event creates a sense of community where friendships are formed\, and a shared passion for cats unites people from all walks of life. \n\n\n\nCat For Sale: \n\n\n\nFor those considering adding a new furry member to their family\, the Seacoast Cat Club provides an exceptional opportunity to find the perfect cat for adoption or purchase. Reputable breeders and rescue organizations showcase a variety of cats seeking loving homes. With expert guidance and a careful selection process\, attendees can find their ideal feline companion and offer them a forever home. \n\n\n\nUnforgettable Cat Encounters: \n\n\n\nDuring my visit\, I had the pleasure of interacting with vendors and fellow cat enthusiasts. Their dedication and knowledge were evident\, and they were more than happy to answer any questions and provide insights into different cat breeds\, behaviors\, and care requirements. It was inspiring to witness their passion and commitment to promoting the well-being of cats. \n\n\n\nA Memorable Experience for the Whole Family: \n\n\n\nThe Seacoast Cat Club is not just for cat lovers; it is a family-friendly event that caters to all age groups. Children can marvel at the beauty of the cats\, participate in interactive activities\, and learn about responsible pet ownership. It's a chance to create lasting memories and instill a love and respect for animals in the younger generation. \n\n\n\nConclusion: \n\n\n\nAs someone who has experienced the wonder of the Seacoast Cat Club firsthand\, I wholeheartedly recommend this event to all cat parents\, cat owners\, and cat lovers. The remarkable display of cat breeds\, the captivating competitions\, the wealth of cat-related merchandise\, and the opportunity to network and learn from experts make it an extraordinary gathering. Whether you're seeking to enhance your knowledge\, find a new feline companion\, or simply indulge in a day dedicated to celebrating cats\, the Seacoast Cat Club is an event not to be missed. Mark your calendars and be prepared for a truly unforgettable experience that will leave you with cherished memories and a deeper appreciation for our feline friends.
+URL:https://animalsevent.test/event/seacoast-cat-club/2023-05-06/
+LOCATION:Douglas N. Everett Arena\, 15 Loudon Rd\, Concord\, New Hampshire\, 03301\, United States
+CATEGORIES:New Hampshire,United States
+ATTACH;FMTTYPE=image/webp:https://animalsevent.test/wp-content/uploads/2023/08/Seacoast-Cat-Club.webp
+ORGANIZER;CN="The Cat Fanciers' Association%2C Inc":MAILTO:aganni@cfa.org
+END:VEVENT
+END:VCALENDAR

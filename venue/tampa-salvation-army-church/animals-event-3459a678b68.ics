@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Animals Event - ECPv6.3.5//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://animalsevent.test
+X-WR-CALDESC:Events for Animals Event
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20230312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20231105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20231021T000000
+DTEND;TZID=America/New_York:20231021T235959
+DTSTAMP:20240428T003526
+CREATED:20230515T022554Z
+LAST-MODIFIED:20231011T080143Z
+UID:10003472-1697846400-1697932799@animalsevent.test
+SUMMARY:That’s My Point Cat Fanciers
+DESCRIPTION:Welcome to That’s My Point Cat Fanciers\, a remarkable event that leaves cat lovers and enthusiasts captivated. As an avid attendee and animal expert\, I had the pleasure of experiencing this extraordinary gathering firsthand. From a wide variety of cat breeds and exotic animals to exciting competitions\, educational talks\, and much more\, That’s My Point Cat Fanciers offers a memorable experience for the whole family. In this article\, I will share my knowledge and recount my unforgettable visit\, highlighting the various attractions and why it is a must-visit event for all cat lovers\, cat parents\, and cat accessory enthusiasts. \n\n\n\nMany Cat Breeds: A Feline Paradise\n\n\n\nAt That’s My Point Cat Fanciers\, one can witness the mesmerizing diversity of cat breeds. From elegant Persians to playful Maine Coons and everything in between\, this event showcases an extensive range of cat breeds. The event offers a unique opportunity to explore the distinct characteristics\, temperaments\, and beauty of each breed\, making it a haven for cat enthusiasts and potential cat owners alike. \n\n\n\nExotic Animals: Unveiling Nature's Wonders\n\n\n\nBeyond the captivating array of cat breeds\, That’s My Point Cat Fanciers introduces visitors to an enchanting world of exotic animals. Exotic creatures such as beautiful Bengal cats\, magnificent Savannah cats\, and charming Abyssinians steal the spotlight\, allowing attendees to appreciate the allure of these unique feline companions. \n\n\n\nCage Supplies and Feeders: Catering to Every Need\n\n\n\nFor those seeking essential supplies and accessories for their beloved feline companions\, That’s My Point Cat Fanciers offers an impressive selection of cage supplies and feeders. Exhibitors present a wide range of innovative products designed to enhance the comfort and well-being of cats\, ensuring that attendees can find the perfect items to meet their feline friends' needs. \n\n\n\nJudging and Competitions: The Thrill of the Show\n\n\n\nWitnessing the judging and competitions at That’s My Point Cat Fanciers is a thrilling experience. Expert judges meticulously evaluate the showcased cats\, paying attention to every detail\, from coat quality to temperament. The competitive spirit adds an electrifying atmosphere\, making the event an exciting spectacle for both participants and spectators. \n\n\n\nExhibitor Booths: A Treasure Trove for Cat Lovers\n\n\n\nThe exhibitor booths at That’s My Point Cat Fanciers are a true paradise for cat lovers. Here\, attendees can find a plethora of unique and specialized products\, from cat toys and scratching posts to premium cat food and grooming supplies. These booths provide an opportunity to discover the latest trends in the feline world and connect with passionate vendors who share a deep love for cats. \n\n\n\nDemonstrations of Grooming\, Training\, and Health\n\n\n\nAt That’s My Point Cat Fanciers\, educational demonstrations are held to impart valuable knowledge about grooming\, training\, and maintaining the health of our feline companions. Renowned experts offer practical tips and insights\, ensuring that attendees leave with a wealth of information to enhance their cat parenting journey. \n\n\n\nCat Agility Competitions: Feline Athletes in Action\n\n\n\nPrepare to be amazed by the agility competitions at That’s My Point Cat Fanciers. Witness cats showcasing their incredible agility\, speed\, and precision as they navigate obstacle courses. These captivating displays of feline athleticism leave attendees in awe and inspire them to further bond with their own furry friends. \n\n\n\nCat Rescue and Adoption: Changing Lives\, One Cat at a Time\n\n\n\nThat’s My Point Cat Fanciers also serves as a platform for promoting cat rescue and adoption. Dedicated organizations and shelters showcase adorable cats in need of loving homes. By connecting passionate cat parents with these feline companions\, the event creates countless opportunities for giving these cats a second chance at a happy life. Visitors can learn about the adoption process\, interact with the cats\, and potentially find their perfect feline match. \n\n\n\nEducational Talks and Seminars: Expanding Knowledge\n\n\n\nOne of the highlights of That’s My Point Cat Fanciers is the series of educational talks and seminars conducted by esteemed experts in the field. Topics range from cat behavior and nutrition to health care and responsible pet ownership. Attendees can gain valuable insights\, debunk common myths\, and receive guidance on providing the best possible care for their furry friends. \n\n\n\nCat-related Merchandise: Souvenirs and Delights\n\n\n\nFor those looking to take home a memento from the event\, That’s My Point Cat Fanciers offers an abundance of cat-related merchandise. From cute cat-themed apparel and accessories to charming home decor items\, attendees can indulge in their love for cats and find unique treasures to commemorate their visit. \n\n\n\nSocializing and Networking: Connecting with Fellow Cat Lovers\n\n\n\nThat’s My Point Cat Fanciers creates a welcoming environment for socializing and networking with fellow cat lovers. Engage in conversations\, exchange experiences\, and form connections with like-minded individuals who share the same passion for feline companions. It's an opportunity to build a supportive community and forge lasting friendships. \n\n\n\nCat FOR SALE: Find Your Perfect Companion\n\n\n\nAt That’s My Point Cat Fanciers\, potential cat parents can find their ideal furry companion. Reputable breeders and sellers offer a variety of healthy and well-socialized cats for sale. Whether you're looking for a specific breed or simply want to explore your options\, the event provides a safe and reliable platform to connect with trusted sellers. \n\n\n\nConclusion\n\n\n\nThat’s My Point Cat Fanciers is an extraordinary event that brings together cat lovers\, cat parents\, and enthusiasts in a vibrant celebration of feline companionship. With its diverse range of cat breeds\, exotic animals\, informative talks\, exciting competitions\, and cat-related merchandise\, the event offers an unforgettable experience for all attendees. Whether you're a seasoned cat lover or just beginning your journey with feline companions\, That’s My Point Cat Fanciers is a must-visit event that promises to delight\, educate\, and inspire. Mark your calendars and bring your whole family for a day filled with joy\, knowledge\, and the purest form of feline love.
+URL:https://animalsevent.test/event/thats-my-point-cat-fanciers/2023-10-21/
+LOCATION:Tampa Salvation Army Church\, 1100 W Sligh Ave\, Tampa\, Florida\, 33604\, United States
+CATEGORIES:Florida,United States
+ATTACH;FMTTYPE=image/webp:https://animalsevent.test/wp-content/uploads/2023/08/Thats-My-Point-Cat-Fanciers.webp
+ORGANIZER;CN="The Cat Fanciers' Association%2C Inc":MAILTO:aganni@cfa.org
+END:VEVENT
+END:VCALENDAR

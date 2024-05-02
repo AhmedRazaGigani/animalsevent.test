@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Animals Event - ECPv6.3.5//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://animalsevent.test
+X-WR-CALDESC:Events for Animals Event
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20240310T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20241103T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240216T000000
+DTEND;TZID=America/New_York:20240217T235959
+DTSTAMP:20240427T233114
+CREATED:20230523T100326Z
+LAST-MODIFIED:20231011T071159Z
+UID:10003820-1708041600-1708214399@animalsevent.test
+SUMMARY:Semi-Annual Board Meeting
+DESCRIPTION:Welcome\, fellow cat enthusiasts! As an avid lover of feline friends and a regular attendee of the Semi-Annual Board Meeting\, I am thrilled to share my firsthand experience of this extraordinary event. Prepare yourself for an unforgettable journey into the captivating world of cats\, where you'll find an incredible array of cat breeds\, exotic animals\, competitions\, educational seminars\, and so much more. Join me as we delve into the highlights of this exceptional gathering\, designed to delight cat parents\, cat lovers\, and enthusiasts of all ages. \n\n\n\nThe Ultimate Showcase of Cat Breeds and Exotic Animals\n\n\n\nAn Array of Fascinating Cat Breeds\n\n\n\nAt the Semi-Annual Board Meeting\, one can witness a magnificent display of diverse cat breeds from all corners of the globe. From the regal Maine Coon to the charming Siamese\, the event showcases the beauty and uniqueness of each feline breed. Whether you're seeking a companion or simply appreciate the feline form\, this gathering offers an unparalleled opportunity to explore the world of cats. \n\n\n\nExotic Animals to Mesmerize Your Senses\n\n\n\nIn addition to cat breeds\, the Semi-Annual Board Meeting introduces visitors to a wide range of exotic animals. Witness the grace of a Bengal tiger\, the playfulness of a serval\, or the majesty of a snow leopard. These extraordinary creatures are a testament to the diversity and wonder of the animal kingdom\, making the event an exceptional experience for wildlife enthusiasts and cat lovers alike. \n\n\n\nA Paradise for Cat Enthusiasts – Supplies\, Judging\, and Competitions\n\n\n\nCage Supplies and Feeders Galore\n\n\n\nFor cat owners and breeders\, the event offers a one-stop-shop for all their feline needs. Browse through an extensive selection of high-quality cage supplies\, including comfortable bedding\, interactive toys\, scratching posts\, and much more. Discover innovative feeders that make mealtime a breeze\, ensuring your beloved feline companions are well-nourished and content. \n\n\n\nWitness the Art of Judging and Competitions\n\n\n\nStep into the world of professional cat shows and competitions at the Semi-Annual Board Meeting. Marvel at the expertise of seasoned judges as they meticulously assess each feline's appearance\, behavior\, and overall health. Witness the anticipation and excitement as the winners are announced\, showcasing the best of the best in the cat world. Whether you're an exhibitor or a spectator\, this spectacle will leave you in awe. \n\n\n\nA Wonderland of Exhibitor Booths and Demonstrations\n\n\n\nExplore Exhibitor Booths\n\n\n\nStroll through the bustling exhibitor booths\, where you'll find a treasure trove of cat-related products\, services\, and information. Connect with knowledgeable vendors who are passionate about cats and eager to share their expertise. Discover the latest trends in cat care\, grooming supplies\, nutrition\, and accessories. Whether you're seeking expert advice or looking to spoil your furry friend\, these exhibitors have you covered. \n\n\n\nGrooming\, Training\, and Training Demonstrations\n\n\n\nAttend captivating demonstrations by experienced professionals who showcase grooming techniques\, training methods\, and tricks to keep your cat happy and healthy. Learn valuable tips and tricks to enhance the bond between you and your feline companion. From nail trimming to clicker training\, these demonstrations provide invaluable insights into the world of cat care. \n\n\n\nUnleashing the Playful Side – Agility Competitions and Cat Rescue\n\n\n\nCat Agility Competitions\n\n\n\nPrepare to be amazed as agile felines navigate obstacle courses with grace and precision. Cat agility competitions are a true crowd-pleaser\, as these incredible athletes showcase their speed\, agility\, and intelligence. Cheer on these talented cats as they leap through hoops\, weave through poles\, and conquer challenging jumps. It's a thrilling experience that showcases the incredible abilities of our feline friends. \n\n\n\nCat Rescue and Adoption Efforts\n\n\n\nThe Semi-Annual Board Meeting also serves as a platform to promote cat rescue and adoption initiatives. Connect with reputable rescue organizations and learn about the heartwarming success stories that have transformed the lives of countless cats. Whether you're considering adding a new furry family member or simply want to support these worthy causes\, this event provides an opportunity to make a positive impact in the lives of our feline friends. \n\n\n\nKnowledge and Fun – Educational Talks\, Cat-related Merchandise\, and Networking\n\n\n\nEducational Talks and Seminars\n\n\n\nExpand your knowledge of feline care and behavior through engaging educational talks and seminars. Esteemed speakers and experts share their insights on various topics\, including cat health\, behavior\, and responsible ownership. Gain a deeper understanding of your feline companion's needs and behaviors\, ensuring a harmonious and fulfilling relationship. \n\n\n\nCat-related Merchandise Galore\n\n\n\nIndulge in retail therapy at the extensive selection of cat-related merchandise available at the event. From charming cat-themed apparel and accessories to unique artwork and home decor\, there's something to suit every cat lover's taste. Treat yourself or find the perfect gift for the fellow cat enthusiasts in your life. \n\n\n\nSocializing and Networking with Cat Lovers\n\n\n\nThe Semi-Annual Board Meeting serves as a meeting ground for like-minded individuals who share a passion for feline companions. Connect with fellow cat parents\, breeders\, and enthusiasts to exchange stories\, tips\, and experiences. Forge new friendships and join a vibrant community of cat lovers who understand and appreciate the unique bond we share with our feline friends. \n\n\n\nConclusion:\n\n\n\nThe Semi-Annual Board Meeting is an exceptional event that brings together cat parents\, cat lovers\, and enthusiasts from all walks of life. With its diverse array of cat breeds\, exotic animals\, competitions\, educational seminars\, and cat-related merchandise\, this gathering promises an unforgettable experience. Don't miss the opportunity to immerse yourself in the enchanting world of felines\, discover the latest trends\, and connect with a passionate community. Mark your calendars and make plans to attend this extraordinary event with your kids for an unforgettable adventure. See you there!
+URL:https://animalsevent.test/event/semi-annual-board-meeting/2024-02-16/
+LOCATION:La Quinta Inn & Suites by Wyndham Kansas City Airport\, 6901 NW 83 St\, Kansas City\, Missouri\, 64152\, United States
+CATEGORIES:Missouri,United States
+ATTACH;FMTTYPE=image/webp:https://animalsevent.test/wp-content/uploads/2023/08/Semi-Annual-Board-Meeting.webp
+ORGANIZER;CN="American Cat Fanciers Association ( ACFA )":MAILTO:acfa@aol.com
+END:VEVENT
+END:VCALENDAR

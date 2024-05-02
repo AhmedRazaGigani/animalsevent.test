@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #mapDiv {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mapDiv"></div>
+      
+    <script nonce="N8oeFuIzvQmhedRBadEaKQ">
+      function onEmbedLoad() {
+        initEmbed([null,null,null,null,null,[[[2,"spotlit",null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,11,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,1]]]],null,null,[[null,null,null,null,null,null,null,null,null,null,null,null,null,[[["9267036166609205281","17641886049639780619"],"/g/11gbl2187q",null,[387565729,3082021662],null,null,null,null,null,null,null,null,null,null,"gcid:event_venue"],0,null,null,null,0,null,0]]]],null,["en_US"],[null,null,null,"/maps/api/js/ApplicationService.GetEntityDetails","/maps/embed/upgrade204",null,"/maps/embed/record204"],null,null,null,null,null,null,null,null,"zoosZtalHoPai-gPj9SR0Ak",null,null,null,[[[3111.3107969988,-121.2945634,38.75657289999999],[0,0,0],null,13.10000038146973],10,0,[["0x809b204b6f707821:0xf4d491e434b2d10b","@the Grounds, 700 Event Center Dr, Roseville, CA 95678, United States",[38.75657289999999,-121.2945634],"17641886049639780619"],"@the Grounds",["700 Event Center Dr","Roseville, CA 95678","United States"],4.099999904632568,"210 reviews",null,null,"+1 916-701-8181",null,null,null,["/url?q=http://atthegrounds.com/\u0026opi=79508299\u0026sa=U\u0026ved=0ahUKEwjWxJXI0uGFAxUD7QIHHQ9qBJoQ61gIFSgQ\u0026usg=AOvVaw1EDQ0Hw4d4ghCxZsHsYNJc","atthegrounds.com",null,"0ahUKEwjWxJXI0uGFAxUD7QIHHQ9qBJoQ61gIFSgQ"],"Event venue","700 Event Center Dr, Roseville, CA 95678, United States",null,null,null,null,null,null,null,null,null,1,null,null,null,"ChIJIXhwb0sgm4ARC9GyNOSR1PQ",null,null,"0ahUKEwjWxJXI0uGFAxUD7QIHHQ9qBJoQ8BcIAygA",null,null,["tel:+19167018181"],null,null,null,1,["0ahUKEwjWxJXI0uGFAxUD7QIHHQ9qBJoQqtMBCA4oCg",["84CWQP44+J5"],["QP44+J5 Roseville, California, USA"],3]]],null,null,null,0,null,null,null,null,null,null,[1]]);
+      }
+      function onApiLoad() {
+        var embed = document.createElement('script');
+        embed.src = "https://maps.gstatic.com/maps-api-v3/embed/js/56/10/init_embed.js";
+        document.body.appendChild(embed);
+      }
+    </script>
+    <link rel="preload" href="https://maps.gstatic.com/maps-api-v3/embed/js/56/10/init_embed.js" nonce="N8oeFuIzvQmhedRBadEaKQ" as="script" />
+    <script src="https://maps.googleapis.com/maps/api/js?client=google-maps-embed&amp;paint_origin=&amp;libraries=geometry,search&amp;v=weekly&amp;loading=async&amp;language=en_US&amp;callback=onApiLoad" nonce="N8oeFuIzvQmhedRBadEaKQ" async defer></script>
+  </body>
+</html>

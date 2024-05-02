@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Animals Event - ECPv6.3.5//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://animalsevent.test
+X-WR-CALDESC:Events for Animals Event
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20230312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20231105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20231202T000000
+DTEND;TZID=America/New_York:20231203T235959
+DTSTAMP:20240427T232253
+CREATED:20230523T054241Z
+LAST-MODIFIED:20231011T075147Z
+UID:10003774-1701475200-1701647999@animalsevent.test
+SUMMARY:Maine Street Cat Fanciers
+DESCRIPTION:Welcome\, fellow feline aficionados! Join me\, Michelle Norman\, as I take you on a whimsical journey through my experience at the Maine Street Cat Fanciers event. Prepare to be enchanted by a world filled with majestic cat breeds\, exotic animals\, exciting competitions\, and a plethora of cat-related merchandise. This delightful gathering is an absolute must-visit for cat parents\, lovers\, vendors\, and accessory sellers alike. So grab your furry friends and let's dive into the captivating realm of the Maine Street Cat Fanciers! \n\n\n\nA Wonderland of Cat Breeds\n\n\n\nThe Purrfect Paradise for Feline Diversity\n\n\n\nAs I entered the Maine Street Cat Fanciers event\, I was immediately mesmerized by the diverse array of cat breeds on display. From the regal Maine Coon to the elegant Siamese\, each breed had its unique charm and allure. The event provided an excellent opportunity to interact with knowledgeable breeders and learn more about the distinctive characteristics\, temperament\, and care requirements of various breeds. Whether you were seeking a new addition to your fur family or simply admired the beauty of cats\, this gathering catered to all. \n\n\n\nExotic Animals and Beyond\n\n\n\nA Glimpse into the Extraordinary Animal Kingdom\n\n\n\nNot only did the Maine Street Cat Fanciers showcase an array of captivating cat breeds\, but it also featured a selection of exotic animals. The event organizers went above and beyond to create an unforgettable experience by bringing together a variety of creatures that added an extra touch of wonder. Visitors could admire reptiles\, birds\, and other fascinating creatures\, allowing them to appreciate the beauty of the animal kingdom as a whole. \n\n\n\nEverything Your Feline Friend Needs\n\n\n\nA Shopper's Paradise for Cat Supplies\n\n\n\nThe Maine Street Cat Fanciers event wasn't just about admiring adorable felines; it also offered an extensive range of cage supplies\, feeders\, and other cat essentials. Vendors showcased high-quality products that catered to the needs of every cat parent\, ensuring that our furry friends would be well taken care of. Whether you were searching for a cozy bed\, interactive toys\, or premium food\, the event was a one-stop-shop for all your feline needs. \n\n\n\nJudging and Competitions\n\n\n\nWitness the Art of Feline Evaluation\n\n\n\nOne of the highlights of the Maine Street Cat Fanciers event was the judging and competitions. Renowned judges from the feline world gathered to evaluate the cats based on various criteria\, including breed standards and grooming. It was a fascinating experience to witness the meticulous process and see the dedication of both the judges and the exhibitors. The competitions added an element of excitement and showcased the remarkable talents and beauty of these extraordinary felines. \n\n\n\nExhibitor Booths and Demonstrations\n\n\n\nExplore a World of Expertise and Skills\n\n\n\nAt the event\, exhibitor booths were scattered throughout the venue\, offering demonstrations of grooming\, training\, and cat care techniques. Skilled professionals shared their expertise\, providing valuable insights into maintaining a happy and healthy cat. Whether you were a seasoned cat owner or a first-time cat parent\, these demonstrations provided a wealth of knowledge to enhance your relationship with your feline companion. \n\n\n\nCat Agility Competitions\n\n\n\nWitness the Grace and Agility of Cats\n\n\n\nFor those seeking an adrenaline rush\, the cat agility competitions were a sight to behold. Cats showcased their athleticism\, nimbleness\, and intelligence as they maneuvered through obstacle courses. It was a joy to witness the bond between the cats and their trainers\, highlighting the strong connection that can be fostered through training and play. These competitions left everyone in awe and truly showcased the remarkable capabilities of our feline friends. \n\n\n\nCat Rescue and Adoption\n\n\n\nChanging Lives\, One Paw at a Time\n\n\n\nThe Maine Street Cat Fanciers event also dedicated a significant space to cat rescue and adoption organizations. This noble initiative provided a platform for finding forever homes for cats in need. It was heartwarming to see the tireless efforts of these organizations and witness the joy of families as they welcomed a new furry family member into their lives. The event created a positive and supportive environment for both prospective cat parents and rescue organizations\, fostering a sense of compassion and responsibility toward these precious creatures. \n\n\n\nEducational Talks and Seminars\n\n\n\nLearn from the Experts\n\n\n\nIn addition to the entertaining aspects of the event\, educational talks and seminars were held throughout the day. Renowned experts shared their insights on a wide range of topics\, including cat behavior\, health\, and nutrition. These sessions were highly informative\, empowering cat parents with knowledge to provide the best care for their beloved felines. Whether you were a novice or a seasoned cat enthusiast\, there was always something new to learn. \n\n\n\nCat-related Merchandise Galore\n\n\n\nShop 'til You Drop\n\n\n\nIf you're a self-proclaimed cat lover\, the Maine Street Cat Fanciers event was a shopper's paradise. A vast selection of cat-related merchandise awaited eager visitors. From adorable apparel and accessories to unique toys and artisanal crafts\, there was something for every cat enthusiast. I couldn't resist indulging in a few items to spoil my own feline companion\, and I'm sure you won't be able to resist either! \n\n\n\nSocializing and Networking\n\n\n\nConnect with Fellow Cat Enthusiasts\n\n\n\nThe Maine Street Cat Fanciers event served as a meeting ground for like-minded individuals passionate about cats. It provided an opportunity to socialize and network with other cat parents\, enthusiasts\, vendors\, and accessory sellers. Conversations flowed effortlessly\, and friendships were forged over a shared love for these enchanting creatures. The sense of camaraderie and belonging was palpable\, making the event even more enjoyable. \n\n\n\nConclusion:\n\n\n\nAs I reflect on my delightful experience at the Maine Street Cat Fanciers event\, I can't help but urge every cat parent\, lover\, vendor\, and accessory seller to mark their calendars for the next edition. It is an event where dreams come true\, offering a captivating world of cat breeds\, exotic animals\, competitions\, educational talks\, and a treasure trove of cat-related merchandise. Embrace the opportunity to connect with fellow cat enthusiasts\, share stories\, and create lasting memories. Trust me\, this feline extravaganza is an event you won't want to miss!
+URL:https://animalsevent.test/event/maine-street-cat-fanciers/2023-12-02/
+LOCATION:International Palms Resort\, 2-50 W South St\, Orlando\, Florida\, 32801\, United States
+CATEGORIES:Florida,United States
+ATTACH;FMTTYPE=image/webp:https://animalsevent.test/wp-content/uploads/2023/08/Maine-Street-Cat-Fanciers.webp
+ORGANIZER;CN="American Cat Fanciers Association ( ACFA )":MAILTO:acfa@aol.com
+END:VEVENT
+END:VCALENDAR
